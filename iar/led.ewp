@@ -1884,6 +1884,12 @@
       <data/>
     </settings>
   </configuration>
+  <group>
+    <name>doc</name>
+  </group>
+  <group>
+    <name>src</name>
+  </group>
   <file>
     <name>$PROJ_DIR$\..\source\font.c</name>
   </file>
